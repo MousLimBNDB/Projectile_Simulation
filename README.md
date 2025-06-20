@@ -23,6 +23,9 @@ This repository contains three versions of a projectile motion simulation implem
   - `projectile_simulation.py`: Reused or enhanced simulation logic.
   - `main.py`: Starts the GUI application.
 
+### V4
+-   
+
 ## Requirements
 
 - Python 3.10+
@@ -40,6 +43,10 @@ python main.py
 
 # For V3 (GUI)
 cd projectileV3
+python main.py
+
+# For V4 
+cd projectileV4
 python main.py
 ```
 
